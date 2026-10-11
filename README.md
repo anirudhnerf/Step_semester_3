@@ -4,9 +4,10 @@
 **Today's Work:**
 - Created the feature/session_3 branch from develop
 - Solved 5 live-session class problems on OOP (classes and objects) in package oop.class_problems: PlacementRecord, MessWallet, Course, IdCard, Student
+- Solved 5 homework assignment problems on OOP in package oop.assigment_problems: BookInventory, PayrollAccount, Employee, HallTicket, CompanyEmployee
 
 **Next Session Plan:**
-- Complete the take-home assignment problems for Session 3
+- Start the next session's topic
 
 **Issues Faced:**
 - None
