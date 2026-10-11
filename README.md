@@ -2,6 +2,7 @@
 
 ## Date: 11-10-2026
 **Today's Work:**
+- Solved 5 live-session class problems (Session 6) on inheritance in package inheritance.class_problems: LibraryMember, StudentMember, HonorsStudentMember, FacultyMember, MembershipRegistry
 - Solved 5 live-session class problems (Session 5) on access modifiers and encapsulation in package encapsulation.class_problems: MovieTicket, AccessChecker, CineScreen, MovieBookingProfile, BookingReceipt, GroupBookingReceipt, NightlySettlement
 - Solved homework assignment problems (Session 5) on access modifiers and encapsulation in package encapsulation.assigment_problems: AccessChecker, BookInventory, LibraryMember
 - Created the feature/session_3 branch from develop
