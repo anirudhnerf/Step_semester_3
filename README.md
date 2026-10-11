@@ -3,6 +3,7 @@
 ## Date: 11-10-2026
 **Today's Work:**
 - Solved 5 live-session class problems (Session 5) on access modifiers and encapsulation in package encapsulation.class_problems: MovieTicket, AccessChecker, CineScreen, MovieBookingProfile, BookingReceipt, GroupBookingReceipt, NightlySettlement
+- Solved homework assignment problems (Session 5) on access modifiers and encapsulation in package encapsulation.assigment_problems: AccessChecker, BookInventory, LibraryMember
 - Created the feature/session_3 branch from develop
 - Solved 5 live-session class problems on OOP (classes and objects) in package oop.class_problems: PlacementRecord, MessWallet, Course, IdCard, Student
 - Solved 5 homework assignment problems on OOP in package oop.assigment_problems: BookInventory, PayrollAccount, Employee, HallTicket, CompanyEmployee
