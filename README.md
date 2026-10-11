@@ -4,9 +4,10 @@
 **Today's Work:**
 - Created the feature/session_2 branch from develop
 - Completed 5 live-session class problems in package string_methods.class_problems: Vowel and Consonant Counter, CSV Student Record Parser, File Extension Validator, Masked Phone Number Formatter, Bank Transaction Reference Generator and Validator
+- Solved 5 assignment problems in package string_methods.assigment_problems: ATM PIN Length Validator, Word Reversal Encoder, Product Inventory CSV Parser, Library ISBN Normalizer and Validator, Stop-Word-Filtered Word Frequency Report
 
 **Next Session Plan:**
-- Complete the take-home assignment problems for Session 2
+- Start the next session's topic
 
 **Issues Faced:**
 - None
