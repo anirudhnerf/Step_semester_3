@@ -2,6 +2,7 @@
 
 ## Date: 11-10-2026
 **Today's Work:**
+- Solved 5 live-session class problems (Session 7) on abstraction (abstract classes and interfaces) in package abstraction.class_problems: Toy, Printable, Instrument, KitchenTool, DeliveryNote
 - Solved 5 live-session class problems (Session 6) on inheritance in package inheritance.class_problems: LibraryMember, StudentMember, HonorsStudentMember, FacultyMember, MembershipRegistry
 - Solved 5 homework assignment problems (Session 6) on inheritance in package inheritance.assigment_problems: GymMember, PremiumMember, EliteMember, GroupClassMember, GymRegistry
 - Solved 5 live-session class problems (Session 5) on access modifiers and encapsulation in package encapsulation.class_problems: MovieTicket, AccessChecker, CineScreen, MovieBookingProfile, BookingReceipt, GroupBookingReceipt, NightlySettlement
