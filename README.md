@@ -2,6 +2,19 @@
 
 ## Date: 11-10-2026
 **Today's Work:**
+- Created the feature/session_3 branch from develop
+- Solved 5 live-session class problems on OOP (classes and objects) in package oop.class_problems: PlacementRecord, MessWallet, Course, IdCard, Student
+
+**Next Session Plan:**
+- Complete the take-home assignment problems for Session 3
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 11-10-2026
+**Today's Work:**
 - Created the feature/session_2 branch from develop
 - Completed 5 live-session class problems in package string_methods.class_problems: Vowel and Consonant Counter, CSV Student Record Parser, File Extension Validator, Masked Phone Number Formatter, Bank Transaction Reference Generator and Validator
 - Solved 5 assignment problems in package string_methods.assigment_problems: ATM PIN Length Validator, Word Reversal Encoder, Product Inventory CSV Parser, Library ISBN Normalizer and Validator, Stop-Word-Filtered Word Frequency Report
